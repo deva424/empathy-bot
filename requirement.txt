@@ -1,0 +1,13 @@
+# UI and Web Framework
+streamlit>=1.30.0
+
+# Deep Learning and NLP
+transformers>=4.35.0
+torch>=2.1.0
+
+pandas>=2.0.0
+numpy
+
+# Deployment (Optional for local, required for Colab tunneling)
+# Note: cloudflared is usually installed as a system binary, 
+# but you can include it here for documentation.
